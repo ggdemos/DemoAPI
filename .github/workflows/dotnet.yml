@@ -30,3 +30,4 @@ jobs:
       uses: actions/upload-artifact@v4.6.2
       with:
         name: DemoAPI-realse
+        path: MyApp/bin/Release/net8.0/
